@@ -14,9 +14,7 @@
 
 ## 🌸 ʜᴇʟʟᴏ, ɪ'ᴍ ᴅɪsʜᴀ
 
-> *"I build the infrastructure that makes intelligent apps feel effortless."* 🎀
-
-I'm a **CS undergrad** who loves the unglamorous, essential layer of software: **scalable APIs**, **modular backends**, and **reliable multi-agent AI pipelines** that hold up under real-world constraints.
+I’m a Computer Science undergraduate who builds the systems behind AI applications. My work spans autonomous agents, model fine-tuning, and the backend architecture that makes them reliable in production.
 
 <br/>
 
