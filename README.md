@@ -1,8 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&customColorList=12,14,18,24&text=Disha%20Nayak&fontColor=ffffff&fontSize=60&fontAlignY=38&desc=backend%20%E2%80%A2%20AI%20systems%20%E2%80%A2%20pink%20pop%20energy&descAlignY=58&descSize=18" width="100%" />
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=building+backends+that+don't+break+%F0%9F%8C%B8;orchestrating+multi-agent+AI+pipelines+%F0%9F%92%97;GraphRAG+%2B+CRAG+%2B+FastAPI+%E2%9C%A8;CS+undergrad+%40+ITER%2C+SOA+%F0%9F%8E%80" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&customColorList=12,14,18,24&text=Disha%20Nayak&fontColor=ffffff&fontSize=60&fontAlignY=50" width="100%" />
 
 <br/>
 
@@ -19,46 +17,6 @@
 > *"I build the infrastructure that makes intelligent apps feel effortless."* 🎀
 
 I'm a **CS undergrad** who loves the unglamorous, essential layer of software: **scalable APIs**, **modular backends**, and **reliable multi-agent AI pipelines** that hold up under real-world constraints.
-
-<br/>
-
-## 💗 ᴡʜᴀᴛ ɪ ʙᴜɪʟᴅ
-
-| 🎀 | **Focus** | **What it looks like** |
-|:-:|:--|:--|
-| 🌷 | **Backend architecture** | REST APIs, DB schemas, clean modular design |
-| 🤖 | **Agent orchestration** | LangGraph workflows, state management |
-| 🔍 | **Retrieval & LLMs** | GraphRAG, CRAG, LLM integration |
-| 🏗️ | **Systems thinking** | Distributed systems, AI infrastructure |
-
-<br/>
-
-## ✨ ꜰᴇᴀᴛᴜʀᴇᴅ ᴡᴏʀᴋ
-
-<table>
-<tr>
-<td width="33%" valign="top">
-
-### 💊 PharmaSight
-AI system for **pharma supply chain** & **drug shortage prediction**.
-<br/>🏆 *Google Solution Challenge 2026*
-
-</td>
-<td width="33%" valign="top">
-
-### 👁️ VeriVision AI
-**Multi-agent computer vision** pipeline for detecting fraud in electronic parts.
-
-</td>
-<td width="33%" valign="top">
-
-### 🔐 VaultKeeper
-**MERN** secure password manager.
-<br/>🎓 *CSE 3395 minor project*
-
-</td>
-</tr>
-</table>
 
 <br/>
 
@@ -91,8 +49,6 @@ AI system for **pharma supply chain** & **drug shortage prediction**.
 
 <br/>
 
-## 📊 ᴍʏ ɢɪᴛʜᴜʙ ɪɴ ᴘɪɴᴋ
-
 <div align="center">
 
 <img height="180" src="https://github-readme-stats.shion.dev/api?username=Disha-1610&show_icons=true&include_all_commits=true&count_private=true&bg_color=FFF0F5&title_color=FF1493&text_color=880E4F&icon_color=FF69B4&border_color=FFB6C1&hide_border=false" />
@@ -106,17 +62,10 @@ AI system for **pharma supply chain** & **drug shortage prediction**.
 
 <br/>
 
-## 🎀 ꜰᴜɴ ꜰᴀᴄᴛs
-
-- 🌸 Would rather debug a race condition than pick a font
-- 💗 Believes good **state management** is a love language
-- ✨ Always adding "just one more agent" to the graph
 
 <br/>
 
 <div align="center">
-
-*made with 💖 and too many `async def`s*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&customColorList=12,14,18,24&section=footer" width="100%" />
 
