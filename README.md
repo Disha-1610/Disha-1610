@@ -46,7 +46,7 @@ I’m a Computer Science undergraduate who builds the systems behind AI applicat
 </div>
 
 <br/>
-
+📊 GITHUB STATS
 <div align="center">
 
 <img height="180" src="https://github-readme-stats.shion.dev/api?username=Disha-1610&show_icons=true&include_all_commits=true&count_private=true&bg_color=FFF0F5&title_color=FF1493&text_color=880E4F&icon_color=FF69B4&border_color=FFB6C1&hide_border=false" />
