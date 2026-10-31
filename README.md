@@ -6,7 +6,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-FF69B4?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/disha-nayak-2595a63ab/)
 [![Email](https://img.shields.io/badge/Email-FF1493?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dishanayak5678@gmail.com)
-![Visitors](https://komarev.com/ghpvc/?username=Disha-1610&color=ff69b4&style=for-the-badge&label=VISITORS)
+
 
 </div>
 
@@ -46,7 +46,9 @@ I’m a Computer Science undergraduate who builds the systems behind AI applicat
 </div>
 
 <br/>
-📊 GITHUB STATS
+
+## 📊 ɢɪᴛʜᴜʙ 
+
 <div align="center">
 
 <img height="180" src="https://github-readme-stats.shion.dev/api?username=Disha-1610&show_icons=true&include_all_commits=true&count_private=true&bg_color=FFF0F5&title_color=FF1493&text_color=880E4F&icon_color=FF69B4&border_color=FFB6C1&hide_border=false" />
@@ -60,10 +62,6 @@ I’m a Computer Science undergraduate who builds the systems behind AI applicat
 
 <br/>
 
-
-<br/>
-
-<div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&customColorList=12,14,18,24&section=footer" width="100%" />
 
