@@ -1,9 +1,5 @@
 <div align="center">
 
-```text
-~/disha $ cat stack.md
-```
-
 <table>
   <tr>
     <th align="left">&nbsp;LAYER&nbsp;</th>
